@@ -1,0 +1,3 @@
+﻿  GameEngine.cpp
+c:\users\bfbcp\documents\visual studio 2017\projects\217 physics resit final\gameengine.cpp(82): warning C4305: 'initializing': truncation from 'double' to 'float'
+  217 Physics resit final.vcxproj -> C:\Users\bfbcp\Documents\Visual Studio 2017\Projects\x64\Debug\217 Physics resit final.exe
